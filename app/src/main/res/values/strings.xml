@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Test</string>
+
+    <!-- tag -->
+    <string name="covertViewTag">covertViewTag</string>
+    <string name="tag_view">tag_view</string>
+    <string name="tag_data">tag_data</string>
+    <string name="tag_adapter">tag_adapter</string>
+</resources>
